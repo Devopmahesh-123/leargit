@@ -4,4 +4,5 @@ function myfunc(total,intial)
 {
     return total+intial;
 }
+console.log(sum);
 myfunc()
