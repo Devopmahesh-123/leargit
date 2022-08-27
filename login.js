@@ -5,5 +5,5 @@
     // console.log(data1+data2);
 // }
 // myfunction()
-myfunc = (data1="Hello Mahesh",data2="in content management system")=>(console.log(data1+""+data2))
-myfunc()
+(data1="Hello Mahesh",data2="in content management system")=>
+console.log(data1+""+data2)
