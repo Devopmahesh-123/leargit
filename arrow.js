@@ -11,4 +11,4 @@
 // console.log(sum);
 
 const arr = [175,50,25];
-console.log(arr.reduce((total,initial)=>(total+initial)))
+console.log(arr.reduce((total,initial)=>total+initial))
